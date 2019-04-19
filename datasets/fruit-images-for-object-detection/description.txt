@@ -1,0 +1,22 @@
+https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection/version/1#
+
+Project
+This dataset is the data used in this project.
+
+Context
+A different dataset for object detection. 240 images in train folder. 60 images in test folder.
+
+Content
+3 different fruits:
+
+Apple
+
+Banana
+
+Orange
+
+Acknowledgements
+.xml files were created with LabelImg. It is super easy to label objects in images.
+
+Inspiration
+I inspired from EdjeElectronics to make my project.
